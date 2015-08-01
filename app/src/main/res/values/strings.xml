@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Driving Assistance System</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!--Activities titles-->
+    <string name="title_activity_forget">Forget your password?</string>
+    <string name="title_activity_introduction_swype">Introduction</string>
+    <string name="title_activity_sign_up">Sign Up</string>
+
+    <!--Activity_login-->
+    <string name="textView_email">Email:</string>
+    <string name="hint_email">Ex: das@continental.com</string>
+    <string name="textView_password">Password</string>
+    <string name="hint_password">°°°°°°°°°°</string>
+    <string name="button_login">Log in</string>
+    <string name="textView_signup">Sign Up</string>
+    <string name="textView_forget">Forget your password?</string>
+
+    <!--Activity_sign_up-->
+    <string name="textView_name">Complete Name:</string>
+    <string name="hint_name">Ex. Guadalupe Pérez</string>
+    <string name="textView_celphone">Celphone:</string>
+    <string name="hint_celphone">Ex. 3331481230</string>
+    <string name="textView_country">Country:</string>
+    <string name="hint_country">Ex. Germany</string>
+    <string name="button_age">Age:</string>
+    <string name="hint_age">Ex. 99</string>
+    <string name="textView_profession">Profession:</string>
+    <string name="hint_profession">Ex. Engineer</string>
+    <string name="textView_emailsignup">Email:</string>
+    <string name="hint_emailsignup">Ex: das@continental.com</string>
+    <string name="textView_passwordsignup">Password:</string>
+    <string name="hint_passwordsignup">°°°°°°°°°°</string>
+    <string name="textView_passwordreview">Confirm Password:</string>
+    <string name="hint_passwordrewiew">°°°°°°°°°°</string>
+    <string name="button_done">Done</string>
+
+
+</resources>
