@@ -22,7 +22,7 @@
     <string name="hint_name">Ex. Guadalupe Pérez</string>
     <string name="textView_sex">Sex:</string>
     <string name="hint_sex"> Female</string>
-    <string name="textView_celphone">Celphone:</string>
+    <string name="textView_celphone">Celphone Number:</string>
     <string name="hint_celphone">Ex. 3331481230</string>
     <string name="textView_country">Country:</string>
     <string name="hint_country">Ex. Germany</string>
