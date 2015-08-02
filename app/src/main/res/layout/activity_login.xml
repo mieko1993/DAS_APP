@@ -41,7 +41,9 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/button_login"
+        android:layout_gravity="center_horizontal"
         android:id="@+id/button_login"
+        android:padding="8dp"
         android:onClick="onClickButtonLogin"/>
 
     <TextView
@@ -50,6 +52,8 @@
         android:textAppearance="?android:attr/textAppearanceMedium"
         android:text="@string/textView_signup"
         android:id="@+id/textView_signUp"
+        android:layout_gravity="center_horizontal"
+        android:padding="10dp"
         android:onClick="onClickTextViewSignup"/>
 
     <TextView
@@ -58,6 +62,8 @@
         android:textAppearance="?android:attr/textAppearanceMedium"
         android:text="@string/textView_forget"
         android:id="@+id/textView_forgetPassword"
+        android:layout_gravity="center_horizontal"
+        android:padding="8dp"
         android:onClick="onClickTextViewForget"/>
 </LinearLayout>
 
