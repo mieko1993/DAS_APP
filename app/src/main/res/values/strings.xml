@@ -20,11 +20,13 @@
     <!--Activity_sign_up-->
     <string name="textView_name">Complete Name:</string>
     <string name="hint_name">Ex. Guadalupe Pérez</string>
+    <string name="textView_sex">Sex:</string>
+    <string name="hint_sex"> Female</string>
     <string name="textView_celphone">Celphone:</string>
     <string name="hint_celphone">Ex. 3331481230</string>
     <string name="textView_country">Country:</string>
     <string name="hint_country">Ex. Germany</string>
-    <string name="button_age">Age:</string>
+    <string name="textView_age">Age:</string>
     <string name="hint_age">Ex. 99</string>
     <string name="textView_profession">Profession:</string>
     <string name="hint_profession">Ex. Engineer</string>
