@@ -7,6 +7,7 @@
     <string name="title_activity_forget">Forget your password?</string>
     <string name="title_activity_introduction_swype">Introduction</string>
     <string name="title_activity_sign_up">Sign Up</string>
+    <string name="title_activity_forget2">Forget your password?</string>
 
     <!--Activity_login-->
     <string name="textView_email">Email:</string>
@@ -37,6 +38,19 @@
     <string name="textView_passwordreview">Confirm Password:</string>
     <string name="hint_passwordrewiew">°°°°°°°°°°</string>
     <string name="button_done">Done</string>
+
+    <!--Activity_forget-->
+    <string name="textView_forgetMessage">Please enter your email and we will send you a message with your password</string>
+    <string name="textView_forgetemail">Email:</string>
+    <string name="hint_emailforget">Ex: das@continental.com</string>
+    <string name="button_send">Send</string>
+
+    <!--Activity_forget2-->
+    <string name="textView_forgetMessage2">In a moment you will receive your password in your inbox e-mai.</string>
+    <string name="button_resend">Resend</string>
+    <string name="button_login2">Login</string>
+    <string name="button_bakcForget">Back</string>
+
 
 
 </resources>
