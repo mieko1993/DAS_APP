@@ -51,6 +51,9 @@
     <string name="button_login2">Login</string>
     <string name="button_bakcForget">Back</string>
 
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
 
 
 </resources>
